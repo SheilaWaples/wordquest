@@ -1,2 +1,2 @@
 # wordquest
-Hangman type game
+Hangman type game utilizing HTML, CSS, and JavaScript
